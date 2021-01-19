@@ -1,0 +1,28 @@
+.trip{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+    height: 30px;
+}
+.ancore{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,lightsalmon);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 2%;
+}
+.half img{
+width: 100%;
+}
+section{
+    
+}
