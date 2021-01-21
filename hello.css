@@ -17,6 +17,7 @@ body{
 }
 .hobey{
     height: 500px;
+    border: 1px solid white;
     padding-left: 100px;
 }
 #merj{
@@ -75,9 +76,18 @@ section{
 }
 .box{
     box-shadow: 1px 1px 4px grey ;
-    
 }
-.hobey3{
-    padding-left: 80px;
-    height: 500px;
+.beg{
+    width: 5vw;
+    height: 10vh;
+}
+footer p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    height: 20px;
+   
+}
+.foter{
+    text-decoration: none;
 }
