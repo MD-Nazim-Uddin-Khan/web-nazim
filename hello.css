@@ -1,9 +1,39 @@
 .trip{
     color: orangered;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size: 40px;
     height: 30px;
+}
+h2{
+    font-size: 35px;
+    font-weight: 700;
+}
+body{
+    margin: 0%;
+}
+.hobey{
+    height: 500px;
+    padding-left: 100px;
+}
+#merj{
+    text-align: center;
+}
+.rong{
+    color:tomato;
+}
+.rong3{
+    color: navy;
+}
+.weight{
+    font-weight: 700;
+}
+.boro{
+    font-weight: 700;
+    font-size: 35px;
 }
 .ancore{
     text-decoration: none;
@@ -17,12 +47,37 @@ h1{
 .half{
     width: 40%;
     float: left;
-    margin-left: 5px;
+    margin-left: 10px;
     padding-left: 2%;
+   
 }
 .half img{
 width: 100%;
 }
 section{
     
+}
+.power-gym{
+    font-weight: 700;
+    
+}
+.music{
+    width:24%;
+    float: left;
+   margin: 10px;
+    padding: 5px 40px ;
+   
+    border-radius:5px;
+    margin-bottom: 150px;
+}
+.music img{
+    width: 100%;
+}
+.box{
+    box-shadow: 1px 1px 4px grey ;
+    
+}
+.hobey3{
+    padding-left: 80px;
+    height: 500px;
 }
